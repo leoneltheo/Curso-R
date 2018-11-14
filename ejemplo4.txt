@@ -1,0 +1,15 @@
+Producto Cantidad
+Aji   	156
+Arveja	159
+Cebolla	224
+Kiwi	648
+Lechuga	586
+Lenteja	516
+Limon	186
+Manzana	220
+Naranja	387
+Papa	359
+Pina	327
+Platano	453
+Poroto	708
+Tomate	469
