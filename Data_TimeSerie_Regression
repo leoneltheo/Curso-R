@@ -1,4 +1,4 @@
-Período	Tasa Desempleo (%)	IPC (%)	IMACEC (%)	IMACEC MINERO (%)	IMACEC  NO MINERO (%)	Indice produccion industrial (N)	Indice produccion industrial (%)
+PERIODO	Tasa_Desempleo(%)	IPC(%)	IMACEC(%)	IMACEC_MINERO (%)	IMACEC _NO_MINERO(%)	Indice_produccion_industrial(N)	Indice_produccion_industrial(%)
 ene-20	7,4	0,6	1,09	1,91	1,01	100,86	1,8
 dic-19	7,1	0,1	0,77	-0,01	0,86	111,25	3,23
 nov-19	7,0	0,1	-3,98	-7,98	-3,55	103,85	-2,43
